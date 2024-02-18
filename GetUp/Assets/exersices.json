@@ -1,0 +1,29 @@
+{
+  "exersices": [
+    {
+      "name": "Journaling",
+      "difficulty": "2",
+      "usefullness": "4"
+    },
+    {
+      "name": "long walk",
+      "difficulty": "3",
+      "usefullness": "3"
+    },
+    {
+      "name": "Meditation",
+      "difficulty": "2",
+      "usefullness": "2"
+    },
+    {
+      "name": "Reading",
+      "difficulty": "2",
+      "usefullness": "3"
+    },
+    {
+      "name": "Day of exersises",
+      "difficulty": "5",
+      "usefullness": "5"
+    }
+  ]
+}
